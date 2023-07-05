@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {    
     const [leftTime, setLeftTime] = useState('');   
-    const lastCrash = moment('2023-06-01');    
+    const lastCrash = moment('2023-02-02');    
 
     useEffect(() => {
 
